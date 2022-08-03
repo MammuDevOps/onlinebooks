@@ -1,2 +1,11 @@
 Hey Hi 
 Yes, HOw 
+
+
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+printf("enter two numbers");
+scanf("%d",&a,&b);
+}
